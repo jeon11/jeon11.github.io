@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jin. This work is licensed under {license}'
+    notice: '© {year} by Jin Jeon. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
